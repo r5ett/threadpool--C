@@ -14,4 +14,4 @@ make
 ./app
 # 删除目标文件（*.o）和可执行文件app
 make clean
-四、其他详细
+四、其他详情见https://www.cnblogs.com/r5ett/p/19483470
